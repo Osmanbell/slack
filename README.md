@@ -1,2 +1,0 @@
-# slack
-work by slack
